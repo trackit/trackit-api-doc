@@ -90,7 +90,7 @@ class App extends Component {
             </nav>
             <main className="col-md-9 ml-sm-auto col-lg-9 px-4">
               <div className="app-container container">
-                <h1>TrackIt.io API Reference</h1>
+                <h1>TrackIt API Reference</h1>
                 <hr/>
                 {routes.length ? routes : spinner}
               </div>
